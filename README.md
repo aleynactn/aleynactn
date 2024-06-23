@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on your open source projects
 - 💬 Ask me about Python
 - 📫 How to reach me: Contact part
-- ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
 
@@ -99,5 +98,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ------
-[Mahdiiye](https://github.com/Mahdiiye)
+[aleynactn](https://github.com/aleynactn)
 Last Edited on: 19/01/2023
