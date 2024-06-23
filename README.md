@@ -1,30 +1,27 @@
-<!---
-aleynactn/aleynactn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Aleyna+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
- </p>
-	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+<h1 align="center">Hi 👋, I'm ALEYNA CETIN</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleynactn&label=Profile%20views&color=0e75b6&style=flat" alt="aleynactn" /> </p>
+
+- 🌱 I’m currently learning **Python/Javascript**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **aleynacetin330@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aleynacetin330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleynacetin330" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning Python/Javascript
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about Python
-- 📫 How to reach me: Contact part
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleynactn&show_icons=true&locale=en&layout=compact" alt="aleynactn" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleynactn&show_icons=true&locale=en" alt="aleynactn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleynactn&" alt="aleynactn" /></p>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
