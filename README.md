@@ -1,7 +1,7 @@
                             Hİ👋, I'M ALEYNA CETIN
 ---------------------------------------------------------------------------------------
 -  I’m @aleynactn
-- 🌱 I’m currently learning Python/Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aleynacetin330@gmail.com
 
