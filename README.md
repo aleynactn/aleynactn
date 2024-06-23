@@ -1,18 +1,9 @@
-                            Hİ👋, I'M ALEYNA CETIN
----------------------------------------------------------------------------------------
--  I’m @aleynactn
-- 🌱 I’m currently learning Python
-- 📫 How to reach me aleynacetin330@gmail.com
-
-
-
-
 <!---
 aleynactn/aleynactn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Aleyna+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
