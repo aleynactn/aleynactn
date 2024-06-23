@@ -18,11 +18,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
+- 🌱 I’m currently learning Python/Javascript
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
+- 💬 Ask me about Python
 - 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
